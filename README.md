@@ -21,7 +21,7 @@ Just [submit](https://github.com/RayhanADev/ama/issues) an issue with the title 
 ---
 
 ## What I Do After Your Answer?
-Respond if you want and the close the issue! It helps to archive all the questions and keep active questions clean.
+Respond if you want and then close the issue! It helps to archive all the questions and keep active questions clean.
 
 ---
 
