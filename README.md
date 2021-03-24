@@ -14,7 +14,9 @@ Just [submit](https://github.com/RayhanADev/ama/issues) an issue with the title 
 3. My Project's Inspiration/Development Process
 4. Coding History
 5. Future Plans
-6. or something awesomely unique!
+6. Personal Preferences
+7. This or That
+8. or something awesomely unique!
 
 ---
 
